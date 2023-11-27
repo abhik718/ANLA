@@ -1,2 +1,2 @@
 # ANLA
-ANLA all assignments
+Algorithm of Numerical Linear Algebra - FAU
